@@ -1,6 +1,6 @@
 # Alice P. — Portfolio
 
-A lightweight static portfolio by Alice P., a student developer at 42 Paris.
+A lightweight static portfolio by Alice P., a student developer at 42 Paris and her AI friend.
 
 ## Pages
 
@@ -22,6 +22,4 @@ Then visit `http://localhost:8000`.
 
 You can also directly open this link : `https://alcije.github.io/Portfolio/`.
 
-## AI use
 
-AI was used to help me put in form this README.md and also correct some part in the portfolio.
