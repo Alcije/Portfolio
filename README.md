@@ -1,6 +1,6 @@
 # Alice P. — Portfolio
 
-A lightweight static portfolio by Alice P., a student developer at 42 Paris and her AI friend.
+A lightweight static portfolio by Alice P., a student developer at 42 Paris.
 
 ## Pages
 
